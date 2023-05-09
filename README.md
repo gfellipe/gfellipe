@@ -3,7 +3,7 @@
 
 
 - 🎓 Cursando Análise e desenvolvimento de sistemas
-- 🌱 Estudando HTML, CSS, JavaScript e React
+- 🌱 Estudando Html, Css, JavaScript e React
 -  😄 Pronouns: ele/dele
 
 
