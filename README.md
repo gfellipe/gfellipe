@@ -135,7 +135,7 @@
 <a href="https://www.instagram.com/gfellipe13/">
 <img height="50px"  src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=61EBFA&color:FFF"></a>
  <a href="mailto:g-fellipe@hotmail.com">
-<img height="50px" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=61EBFA6&color:FFF">
+<img height="50px" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=61EBFA&color:FFF">
 </a>
 </p>
 <br/><br/>
