@@ -3,7 +3,7 @@
 
  <hr>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=bf91f3&vCenter=true&width=600&height=70&lines=Hi+There!!!!;I+am+Gabriel+Fellipe+.;FrontEnd+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=61EBFA&vCenter=true&width=600&height=70&lines=Hi+There!!!!;I+am+Gabriel+Fellipe+.;FrontEnd+developer.)](https://git.io/typing-svg)
 
  <hr>
  <div align="center">
