@@ -40,8 +40,6 @@
         </sub>
       </a>
     </td>
-  </tr>
-    <tr>
     <td align="center">
       <a href="https://getbootstrap.com/">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
@@ -51,9 +49,7 @@
         </b>
       </sub>
       </a>
-    </td>
-  </tr>
-  <tr>    
+    </td>   
     <td align="center">
       <a href="https://styled-components.com/">
         <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
@@ -64,8 +60,6 @@
         </sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
@@ -167,5 +161,5 @@
 ![snake gif](https://github.com/gfellipe/gfellipe/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=gfellipe&repo=gfellipei&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github da gfellipe" height="40px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=gfellipe&repo=gfellipei&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github de gfellipe" height="40px" />
 </div>
