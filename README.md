@@ -20,7 +20,7 @@
   <li>🚀Também participei do <strong>Spread Fullstack Developer </strong> em parceria com a DIO e aprendi sobre as tecnologias mais usadas no mercado.
  
    <li> Tenho <strong> inglês </strong> intermediário.</li>
-  <li>🎮 Curto jogar <a href="https://www.ea.com/pt-br/games/fifa/fifa-23">Fifa 23</a></li>
+  <li>🎮 Curto jogar <a href="https://www.ea.com/pt-br/games/fifa/fifa-23">Ea Fc24</a></li>
   </ul>
  
     
