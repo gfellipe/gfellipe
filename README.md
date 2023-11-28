@@ -16,7 +16,7 @@
   <li>💻 Estudei na <a href="https://github.com/Rocketseat" target="_blank">Rocketseat</a>, <a href="https://github.com/alura-cursos" target="_blank">Alura Cursos</a> e <a href="https://www.dio.me" target="_blank">DIO</a>. 
   <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento de Software Web frontend.</li>
   <li>🔮 .Tenho conhecimento em programação com <strong> HTML, CSS, React, Javascript, (banco de dados), versionamento de código com Git/GitHub</strong> e também já fiz alguns projetos utilizando <strong> ReactJS </strong>. </li>
-  <li>🚀Atualmente tenho me aprofundado no conhecimento sobre tecnologias FrontEnd com uma bolsa de estudos do <strong> Descomplica/Fundamentos de FrontEnd Development</strong>. </li>
+  <li>🚀Atualmente tenho me aprofundado no conhecimento sobre tecnologias FrontEnd.</strong>. </li>
   <li>🚀Também participei do <strong>Spread Fullstack Developer </strong> em parceria com a DIO e aprendi sobre as tecnologias mais usadas no mercado.
  
    <li> Tenho <strong> inglês </strong> intermediário.</li>
